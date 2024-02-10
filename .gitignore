@@ -1,0 +1,10 @@
+build/
+dist/
+.vs/*
+.vscode/*
+ARM.spec
+*_bkup
+test.csv
+test.py
+Roland*
+spdsx*
